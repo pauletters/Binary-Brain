@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "_id": "q1",
+      "question": "What color is a banana?",
+      "answers": [
+        {
+          "text": "Yellow",
+          "isCorrect": true
+        },
+        {
+          "text": "Blue",
+          "isCorrect": false
+        },
+        {
+          "text": "Red",
+          "isCorrect": false
+        },
+        {
+          "text": "Green",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": "q2",
+      "question": "How many legs does a cat have?",
+      "answers": [
+        {
+          "text": "Two",
+          "isCorrect": false
+        },
+        {
+          "text": "Four",
+          "isCorrect": true
+        },
+        {
+          "text": "Six",
+          "isCorrect": false
+        },
+        {
+          "text": "Eight",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": "q3",
+      "question": "What shape is a circle?",
+      "answers": [
+        {
+          "text": "Square",
+          "isCorrect": false
+        },
+        {
+          "text": "Triangle",
+          "isCorrect": false
+        },
+        {
+          "text": "Round",
+          "isCorrect": true
+        },
+        {
+          "text": "Rectangle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": "q4",
+      "question": "What season comes after summer?",
+      "answers": [
+        {
+          "text": "Spring",
+          "isCorrect": false
+        },
+        {
+          "text": "Winter",
+          "isCorrect": false
+        },
+        {
+          "text": "Summer",
+          "isCorrect": false
+        },
+        {
+          "text": "Fall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": "q5",
+      "question": "What animal says 'moo'?",
+      "answers": [
+        {
+          "text": "Dog",
+          "isCorrect": false
+        },
+        {
+          "text": "Cow",
+          "isCorrect": true
+        },
+        {
+          "text": "Cat",
+          "isCorrect": false
+        },
+        {
+          "text": "Duck",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
